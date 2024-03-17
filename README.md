@@ -10,3 +10,5 @@ Following operations are performed in the project
 5) Running some queries
 6) Maintains Log messages
 7) Error handling
+
+https://www.coursera.org/learn/python-project-for-data-engineering/
